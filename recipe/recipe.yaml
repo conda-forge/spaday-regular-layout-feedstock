@@ -1,5 +1,5 @@
 context:
-  version: "0.2.7"
+  version: "0.3.0"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-regular-layout/spaday_regular_layout-${{ version }}.tar.gz
-  sha256: af56ef75fe8a8c3172894eb563a91f1647c54ce3d47740dbd112d9363cd8b82a
+  sha256: f7c83aaeffa7764d75e2667fc34c23ddcfe1f68b5598cdae6bd38f45b84d025a
 
 build:
   number: 0
